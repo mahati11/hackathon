@@ -11,9 +11,7 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur
-              quam purus, ullamcorper id risus eu, consectetur consectetur
-              purus. Etiam sagittis in eros ac sollicitudin.
+            Introducing a software platform that connects small and medium-sized enterprises (SMEs) in underdeveloped regions with the resources and support they need to grow, innovate, and create jobs. This platform aims to address two of the United Nations Sustainable Development Goals - Decent Work and Economic Growth, and Industry, Innovation and Infrastructure.
             </p>
           </div>
         </div>
